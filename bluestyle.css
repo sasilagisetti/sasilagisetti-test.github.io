@@ -8,4 +8,5 @@ h1{
 p{
     color: green;
     border: 1px solid grey;
+    padding : 10px;
 }
